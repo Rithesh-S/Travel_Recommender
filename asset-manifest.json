@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/travelrecommender/static/css/main.a28a0b4e.css",
+    "main.js": "/travelrecommender/static/js/main.4bf102c4.js",
+    "static/js/453.141f5249.chunk.js": "/travelrecommender/static/js/453.141f5249.chunk.js",
+    "index.html": "/travelrecommender/index.html",
+    "main.a28a0b4e.css.map": "/travelrecommender/static/css/main.a28a0b4e.css.map",
+    "main.4bf102c4.js.map": "/travelrecommender/static/js/main.4bf102c4.js.map",
+    "453.141f5249.chunk.js.map": "/travelrecommender/static/js/453.141f5249.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a28a0b4e.css",
+    "static/js/main.4bf102c4.js"
+  ]
+}
