@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TravelBlossom/static/css/main.a28a0b4e.css",
-    "main.js": "/TravelBlossom/static/js/main.2577c910.js",
-    "static/js/453.141f5249.chunk.js": "/TravelBlossom/static/js/453.141f5249.chunk.js",
-    "index.html": "/TravelBlossom/index.html",
-    "main.a28a0b4e.css.map": "/TravelBlossom/static/css/main.a28a0b4e.css.map",
-    "main.2577c910.js.map": "/TravelBlossom/static/js/main.2577c910.js.map",
-    "453.141f5249.chunk.js.map": "/TravelBlossom/static/js/453.141f5249.chunk.js.map"
+    "main.css": "/Travel_Recommender/static/css/main.a28a0b4e.css",
+    "main.js": "/Travel_Recommender/static/js/main.7652946f.js",
+    "static/js/453.141f5249.chunk.js": "/Travel_Recommender/static/js/453.141f5249.chunk.js",
+    "index.html": "/Travel_Recommender/index.html",
+    "main.a28a0b4e.css.map": "/Travel_Recommender/static/css/main.a28a0b4e.css.map",
+    "main.7652946f.js.map": "/Travel_Recommender/static/js/main.7652946f.js.map",
+    "453.141f5249.chunk.js.map": "/Travel_Recommender/static/js/453.141f5249.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a28a0b4e.css",
-    "static/js/main.2577c910.js"
+    "static/js/main.7652946f.js"
   ]
 }
